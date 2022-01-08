@@ -1,6 +1,12 @@
 # Projectio
 
+<img src="https://user-images.githubusercontent.com/49658988/148646049-2029ead3-7643-4d04-a2dc-e4e5a6d9939f.png" width="400"></img>
+
+---
+
 Built with Adonis.js and Vue.js
+
+---
 
 ## Dev info
 
